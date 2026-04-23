@@ -31,6 +31,11 @@ This system helps businesses:
 - Data validation and formulas 
 
 ---
+## 📸 Sample Output
+
+### Receipt Example
+![Receipt](receipt-screenshot.png)
+
 
 ## 📂 How to Use
 
